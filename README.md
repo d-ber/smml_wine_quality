@@ -19,7 +19,8 @@ Three kernels have been implemented and tested for both SVM and LR: the gaussian
 
 1. Create and activate a Python environment (tested on Python 3.13.7).
 2. Install dependencies with pip: `pip install -r requirements.txt`
-3. Open `wine.ipynb` (or `wine_no_kernel_tuning.ipynb`) in Jupyter and run all cells.
+3. Download dataset from [https://archive.ics.uci.edu/dataset/186/wine+quality](https://archive.ics.uci.edu/dataset/186/wine+quality) to the `/data` subdirectory.
+4. Open `wine.ipynb` (or `wine_no_kernel_tuning.ipynb`) in Jupyter and run all cells.
 
 <br><br>
 
