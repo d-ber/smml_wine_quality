@@ -13,7 +13,7 @@ Three kernels have been implemented and tested for both SVM and LR: the gaussian
 
 - `wine.ipynb`: main notebook (includes optional kernel tuning), provided with output
 - `wine_no_kernel_tuning.ipynb`: reference notebook with kernel tuning disabled,  provided with output
-- `wine.pdf`: report
+- `report.pdf`: report
 
 ## How to run
 
